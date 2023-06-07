@@ -1,0 +1,6 @@
+flask
+SQLAlchemy==1.4.46
+pandas
+openai
+pandasql
+python-dotenv
